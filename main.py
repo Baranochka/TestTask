@@ -1,3 +1,4 @@
+import csv
 
 def main():
     print("Hello from vk!")
